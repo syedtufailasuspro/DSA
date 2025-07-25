@@ -1,0 +1,9 @@
+ac = 0
+bc = 0
+cc = 0
+for i in sli:
+    if i == 'a':
+        ac += 1
+    elif i == 'b':
+        bc += 1
+    else:

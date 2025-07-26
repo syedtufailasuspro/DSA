@@ -9,7 +9,6 @@ crossword = [
     '++++++++-+',
     '++++++++-+',
     '++++++++-+'
-    
 ]
 words = 'ICELAND;MEXICO;PANAMA;ALMATY'
 
